@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<userInfo> 
+  <user> 
+    <name>松下</name>  
+    <pwd>123456</pwd> 
+  </user>  
+  <user> 
+    <name>老李</name>  
+    <pwd>456789</pwd> 
+  </user>  
+  <user> 
+    <name>王五</name>  
+    <pwd>123456</pwd> 
+  </user>  
+  <user>
+    <name>小豪</name>
+    <pwd>456</pwd>
+  </user>
+</userInfo>

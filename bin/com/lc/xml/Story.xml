@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StoryInfo>
+	<storyType type="修仙江湖" path="F:\Workspace\StorySys\\wx\\">
+		<story>
+			<name>笑傲江湖</name>
+			<author>金庸</author>
+			<description>江湖-刀剑如梦，夕阳如血，沧海一笑，我自逍遥</description>
+			<path>F:\Workspace\StorySys\wx\笑傲江湖.txt</path>
+		</story>
+		<story>
+			<name>最强弃少</name>
+			<author>鹅是老五</author>
+			<description>叶默蓦然清醒过来的时候，才发现周围的一切似乎都变了，美女师父也不见了....</description>
+			<path>F:\Workspace\StorySys\wx\最强弃少.txt</path>
+		</story>
+	</storyType>
+	<storyType type="恐怖" path="F:\Workspace\StorySys\\yq\\">
+		<story>
+			<name>十宗罪</name>
+			<author>蜘蛛</author>
+			<description>本书根据真实案例改编而成，涉案地名人名均为化名。十起恐怖凶杀案，就发生在我们身边....</description>
+			<path>F:\Workspace\StorySys\yq\十宗罪完整版.txt</path>
+		</story>
+	</storyType>
+</StoryInfo>
